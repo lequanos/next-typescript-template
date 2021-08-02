@@ -1,5 +1,5 @@
-# react-typescript-template
-Template pour projets React/Typescript
+# next-typescript-template
+Template pour projets Next/Typescript
 
 ## Installation
 
